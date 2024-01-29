@@ -1,0 +1,3 @@
+Hi there,
+
+I just wanted to update you on a project I've been working on for OutGauge. I've developed a program based on the one posted by angelo234 on the BeamNG forums, which you can access at https://drive.google.com/file/d/15liU_MXeqHm84O3XSlxS5h-V-wSGqqZR/view?usp=sharing. I've put a lot of effort into making this program polished and user-friendly. However, as I have other projects to work on, I'll only add new features to this program if users request them. If you need to reach me, I go by PowerstrokeHD on the forums and you can find me at https://www.beamng.com/members/powerstrokehd.424395/.
